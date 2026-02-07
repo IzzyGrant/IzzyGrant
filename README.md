@@ -2,15 +2,16 @@
 
 BIenvenido(a) a mi cuenta de GitHub 🙌
 
-Actualmente estoy en el estudio de **Java**☕ y tambien cuento con experiencia en desarrollo Web 💻.
+Actualmente estoy en la carrera de **Matemáticas Aplicadas y Computación** por la **UNAM** ☕ y tambien cuento con experiencia en desarrollo Web y pequeñas
+infraestructuras 💻.
 
-Lenguajes de programacion los cuales estoy aplicando ✔ son:
+Lenguajes de programacion/web/otros los cuales estoy aplicando ✔ son:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,cpp,mysql&theme=dark)](https://github.com/IzzyGrant)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,java,py,c,cpp,kotlin,haskell,latex,mysql,postgres)](https://github.com/IzzyGrant)
 
-Mis principales herramientas 🛠 son:
+Mis principales herramientas que uso y me estoy entrenando 🛠 son:
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,vscode,arduino,androidstudio&theme=dark)](https://github.com/IzzyGrant)
+[![My Skills](https://skillicons.dev/icons?i=git,github,windows,linux,debian,ubuntu,kali,mint,vscode,visualstudio,arduino,androidstudio,bootstrap,cloudflare,docker,matlab,octave,powershell)](https://github.com/IzzyGrant)
 
 Es un gusto conocerte 😄
 
