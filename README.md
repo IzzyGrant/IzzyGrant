@@ -11,7 +11,7 @@ Lenguajes de programacion/web/otros los cuales estoy aplicando ✔ son:
 
 Mis principales herramientas que uso y me estoy entrenando 🛠 son:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,windows,linux,debian,ubuntu,kali,mint,vscode,visualstudio,arduino,androidstudio,bootstrap,cloudflare,docker,matlab,octave,powershell)](https://github.com/IzzyGrant)
+[![My Skills](https://skillicons.dev/icons?i=git,github,windows,linux,debian,ubuntu,kali,mint,vscode,visualstudio,md,arduino,raspberrypi,androidstudio,bootstrap,cloudflare,docker,matlab,octave,powershell)](https://github.com/IzzyGrant)
 
 Es un gusto conocerte 😄
 
